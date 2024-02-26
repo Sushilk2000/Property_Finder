@@ -11,7 +11,7 @@ function Header() {
           <Link to={"/"}>
             {" "}
             <img
-              src="src/Header/Designer-removebg-preview.png"
+              src="public/Designer-removebg-preview.png"
               className="h-full invert"
             />
           </Link>
